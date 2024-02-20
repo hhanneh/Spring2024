@@ -1,0 +1,9 @@
+header,footer {
+    background-color: rgb(247, 203, 210);
+    color: rgb(69, 30, 69);
+    padding: 1cm;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    clear: left;
+}
